@@ -44,7 +44,7 @@ Welcome to **Wahy & Tilawah**, an elegant and feature-rich Islamic platform desi
 
 ## 🚀 Live Demo  
 
-🌐 **[Try the application here](#)**  
+🌐 **[Try the application here](https://mahmoudnazmy.github.io/Wahy-Tilawah/)**  
 
 ---
 
